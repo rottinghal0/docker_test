@@ -11,8 +11,8 @@ def index():
         { 
             "app": "Cloud Container Demo", 
             "version": "1.0", 
-            "student": "Финишин Алексей", 
-            "message": "Приложение успешно работает в облаке", 
+            "student": "Finishin Alexey", 
+            "message": "App working succesfully", 
         } 
     ) 
  
